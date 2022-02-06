@@ -1,4 +1,4 @@
-# Microfrontend Project
+# Microfrontend Monorepo Project
 
 ## Requirements
 - Loose coupling between sub-projects
